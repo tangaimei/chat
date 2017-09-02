@@ -1,0 +1,6 @@
+projectKey=Chat_1
+serverUrl=http://localhost:9000
+serverVersion=6.5.0.27846
+dashboardUrl=http://localhost:9000/dashboard/index/Chat_1
+ceTaskId=AV5AryAb1PzQsbdJDO55
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV5AryAb1PzQsbdJDO55
